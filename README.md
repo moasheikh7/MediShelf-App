@@ -24,4 +24,4 @@ To run this project locally, you will need to:
 
 ---
 **Author:** Mohamed Sheikh
-*Disclaimer: This project was created for educational purposes as a classroom demo.*
+
